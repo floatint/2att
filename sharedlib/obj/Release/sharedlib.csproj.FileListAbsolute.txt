@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\1ATT\2att\sharedlib\bin\Release\sharedlib.dll
+C:\Users\User\Desktop\1ATT\2att\sharedlib\bin\Release\sharedlib.pdb
+C:\Users\User\Desktop\1ATT\2att\sharedlib\obj\Release\sharedlib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\2att\sharedlib\obj\Release\sharedlib.dll
+C:\Users\User\Desktop\1ATT\2att\sharedlib\obj\Release\sharedlib.pdb

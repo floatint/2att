@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\9.1.16 Console.exe.config
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\9.1.16 Console.exe
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\9.1.16 Console.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\ConsoleLib.dll
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\sharedlib.dll
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\ConsoleLib.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\bin\Debug\sharedlib.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\obj\Debug\9.1.16 Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\obj\Debug\9.1.16 Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\obj\Debug\9.1.16 Console.exe
+C:\Users\User\Desktop\1ATT\2att\9.1.16 Console\obj\Debug\9.1.16 Console.pdb

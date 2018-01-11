@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\bin\Debug\ConsoleLib.dll
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\bin\Debug\ConsoleLib.pdb
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\bin\Debug\sharedlib.dll
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\bin\Debug\sharedlib.pdb
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\obj\Debug\ConsoleLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\obj\Debug\ConsoleLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\obj\Debug\ConsoleLib.dll
+C:\Users\User\Desktop\1ATT\2att\ConsoleLib\obj\Debug\ConsoleLib.pdb

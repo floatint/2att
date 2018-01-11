@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\_9._1._16.GUI.exe.config
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\_9._1._16.GUI.exe
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\_9._1._16.GUI.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\GUIlib.dll
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\sharedlib.dll
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\GUIlib.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\bin\Debug\sharedlib.pdb
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\9.1.16. GUI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\_9._1._16.GUI.Form1.resources
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\_9._1._16.GUI.Properties.Resources.resources
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\9.1.16. GUI.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\9.1.16. GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\_9._1._16.GUI.exe
+C:\Users\User\Desktop\1ATT\2att\9.1.16. GUI\obj\Debug\_9._1._16.GUI.pdb

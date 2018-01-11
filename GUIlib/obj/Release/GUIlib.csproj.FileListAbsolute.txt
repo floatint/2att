@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\1ATT\2att\GUIlib\bin\Release\GUIlib.dll
+C:\Users\User\Desktop\1ATT\2att\GUIlib\bin\Release\GUIlib.pdb
+C:\Users\User\Desktop\1ATT\2att\GUIlib\obj\Release\GUIlib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1ATT\2att\GUIlib\obj\Release\GUIlib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\2att\GUIlib\obj\Release\GUIlib.dll
+C:\Users\User\Desktop\1ATT\2att\GUIlib\obj\Release\GUIlib.pdb
