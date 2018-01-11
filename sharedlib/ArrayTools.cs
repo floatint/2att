@@ -15,7 +15,7 @@ namespace sharedlib
         {
             Str = "";
         }
-
+        
         public int[] DoInsert (bool after, bool negative)
         {
             //Utils utils = new Utils();
